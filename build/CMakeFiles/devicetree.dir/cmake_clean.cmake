@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/libdevicetree.pdb"
-  "/home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/libdevicetree.so"
+  "/home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/libdevicetree.pdb"
+  "/home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/libdevicetree.so"
   "CMakeFiles/devicetree.dir/src/devicetree.cpp.o"
   "CMakeFiles/devicetree.dir/src/devicetree.cpp.o.d"
 )

@@ -1,5 +1,5 @@
-/home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/build/CMakeFiles/devicetree.dir/src/devicetree.cpp.o: \
- /home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/src/devicetree.cpp \
+/home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/build/CMakeFiles/devicetree.dir/src/devicetree.cpp.o: \
+ /home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/src/devicetree.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/12/iostream \
  /usr/include/aarch64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/aarch64-linux-gnu/c++/12/bits/os_defines.h \
@@ -169,7 +169,7 @@
  /usr/include/c++/12/bits/locale_conv.h \
  /usr/include/c++/12/bits/quoted_string.h /usr/include/c++/12/cstring \
  /usr/include/string.h /usr/include/strings.h /usr/include/c++/12/bitset \
- /home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/include/devicetree/devicetree.h \
+ /home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/include/devicetree/devicetree.h \
  /usr/include/c++/12/filesystem /usr/include/c++/12/bits/fs_fwd.h \
  /usr/include/c++/12/bits/chrono.h /usr/include/c++/12/ratio \
  /usr/include/c++/12/limits /usr/include/c++/12/bits/parse_numbers.h \
@@ -192,4 +192,4 @@
  /usr/include/aarch64-linux-gnu/bits/mman-linux.h \
  /usr/include/aarch64-linux-gnu/bits/mman-shared.h \
  /usr/include/aarch64-linux-gnu/bits/mman_ext.h \
- /home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/include/devicetree/uint_large.h
+ /home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/include/devicetree/uint_large.h

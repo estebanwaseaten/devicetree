@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC -shared -Wl,-soname,libdevicetree.so -o /home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/libdevicetree.so CMakeFiles/devicetree.dir/src/devicetree.cpp.o 
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libdevicetree.so -o /home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/libdevicetree.so CMakeFiles/devicetree.dir/src/devicetree.cpp.o 

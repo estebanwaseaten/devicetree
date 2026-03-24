@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/src/devicetree.cpp" "/home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/build/CMakeFiles/devicetree.dir/src/devicetree.cpp.o" "gcc" "/home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/build/CMakeFiles/devicetree.dir/src/devicetree.cpp.o.d"
+  "/home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/src/devicetree.cpp" "/home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/build/CMakeFiles/devicetree.dir/src/devicetree.cpp.o" "gcc" "/home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/build/CMakeFiles/devicetree.dir/src/devicetree.cpp.o.d"
   )
 
 # Targets to which this target links.

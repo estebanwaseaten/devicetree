@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -Ddevicetree_EXPORTS
 
-CXX_INCLUDES = -I/home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/include -I/home/daniel/projects/testing/deltascope_cpp/libs/raspi/libs/devicetree/src
+CXX_INCLUDES = -I/home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/include -I/home/wegkamp/development/lambdascope/libs/raspi/libs/devicetree/src
 
 CXX_FLAGS = -fPIC -pg -std=gnu++17
 
